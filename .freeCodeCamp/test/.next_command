@@ -185,3 +185,4 @@ psql --username=freecodecamp --dbname=students
 ./student_info
 ./student_info.sh
 SELECT student_info.sh students.sql FROM students FULL JOIN majors ON students.major_id = majors.major_id
+./student_info.sh
